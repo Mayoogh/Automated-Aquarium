@@ -4,6 +4,9 @@ This device will automatically change contaminated water from aquarium and refil
 ## Tinkercad Simulation 
 [Link to Simulation](https://www.tinkercad.com/things/a0lOm6MZeaU-automated-aquarium/editel?sharecode=9W0NZiMz0UEaZwgyq93BXftexpjfx08QcJxxL9miNgA=)
 
+![Simulation](https://raw.githubusercontent.com/Mayoogh/Automated-Aquarium/master/Tinkercad%20Simulation.PNG)
+
+
 
 
 ## Working
